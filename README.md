@@ -7,7 +7,8 @@ I’m 寒山-居士, A client development engineer since 2010, currently working
 
 <br>
 ### 🛠 &nbsp;Tech Stack
-
+<br>
+<br>
 <img align="right" src="programming.gif" width="40%">
  
 ![QtWidgets](https://img.shields.io/badge/QtWidgets%20Program-10y-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56) 
@@ -24,8 +25,9 @@ I’m 寒山-居士, A client development engineer since 2010, currently working
 
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
-
+### ⚙️ &nbsp;GitHub Analytics 
+<br>
+<br>
 <p align="center">
 <a href="https://github.com/toby20130333">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=toby20130333&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -36,7 +38,8 @@ I’m 寒山-居士, A client development engineer since 2010, currently working
 
 <br>
 ### 🤝🏻 &nbsp;Contact With Me
-
+<br>
+<br>
 <p align="center">
 <a href="mailto:toby20130333@gmail.com"><img src="https://img.shields.io/badge/-toby20130333@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://blog.csdn.net/Esonpo?type=blog"><img src="https://img.shields.io/badge/-csdn@寒山居士_-E4405F?style=flat-square&logo=csdn&logoColor=white"/>
